@@ -97,15 +97,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Lion Technologies Releases Nexus Repository</name>  
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-releases/</url>
+	      <url>http://54.244.96.96:8081/repository/liontechpros-bmo-releases/</url>
 		    
 		          
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-snapshot/</url>
+	      <name>Lion Technologies Snapshot Nexus Repository </name>
+	      <url>http://54.244.96.96:8081/repository/lion-pros-boa-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
